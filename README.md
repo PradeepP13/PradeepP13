@@ -12,6 +12,6 @@ Libraries & Tools: NumPy, Pandas, Scikit-Learn, Matplotlib, Keras, TensorFlow.
 
 Data Analysis: Exploratory Data Analysis, Ensemble Methods, Statistical Foundation.
 
-How to reach me 📱
+How to reach me 
 
 [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/pradeep-mudaliar/)
