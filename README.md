@@ -14,5 +14,4 @@ Data Analysis: Exploratory Data Analysis, Ensemble Methods, Statistical Foundati
 
 How to reach me 📱
 
-![image((https://user-images.githubusercontent.com/114388523/223372778-78115ded-8203-48b5-892a-37cc65579af3.png)](https://www.linkedin.com/in/pradeep-mudaliar/))
-
+[<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/pradeep-mudaliar/)
